@@ -12,7 +12,7 @@
 nome: Pedro Fernandes Aguiar
 universidade: UNIFEI - Universidade Federal de Itajubá (Campus Itabira)
 curso: Engenharia de Computação
-foco: Integração entre hardware e software — de sensores a dashboards
+foco: Integração entre hardware e software / Visão Computacional
 idiomas: [Português (nativo), Inglês (intermediário/avançado)]
 ```
 
@@ -25,15 +25,15 @@ Computer Engineering student at UNIFEI. I'm a developer focused on bridging the 
 ### Tech Stack & Skills
 
 #### **Visão Computacional & Machine Learning**
-- **Detecção:** YOLOv8 (fine-tuning com dataset próprio, 2.600+ imagens rotuladas).
+- **Detecção:** YOLO.
 - **Tracking:** ByteTrack com re-associação robusta em cenários de oclusão.
 - **Ferramentas:** OpenCV, PyTorch + CUDA, cvzone, Roboflow.
-- **Focus:** Sistemas autônomos de contagem e monitoramento em tempo real.
+- **Focus:** Sistemas autônomos de monitoramento em tempo real.
 
 #### **Sistemas de Engenharia & IoT**
 - **Languages:** C, C++ (Multithreading, FSM), Python.
 - **Hardware:** ESP32, Arduino, Raspberry Pi, Protocolos MQTT/Modbus.
-- **Focus:** Robótica competitiva e Iniciação Científica em IoT.
+- **Focus:** **Robótica competitiva** e **Iniciação Científica** em IoT.
 
 #### **Desenvolvimento Web & Software**
 - **Backend:** C# (.NET Core), Web API.
@@ -48,10 +48,12 @@ Computer Engineering student at UNIFEI. I'm a developer focused on bridging the 
 
 ### Experience & Achievements
 - **Computer Vision:** Projeto completo end-to-end — coleta de dados, treinamento YOLOv8, deploy autônomo 24h com mAP50 = 0.928. / Full end-to-end CV project — data collection, YOLOv8 training, 24h autonomous deployment with mAP50 = 0.928.
-- **Pesquisador de IC (IoT):** Desenvolvendo soluções de monitoramento e coleta de dados em tempo real. / Developing real-time data collection and monitoring solutions.
-- **Robótica:** Premiado em competições, aplicando lógica de controle e hardware. / Award-winning participation in robotics competitions.
+- **Pesquisador de IC (IoT):** Desenvolvendo soluções de monitoramento e coleta de dados em tempo real de uma **Usina Solar**. / Developing real-time data collection and monitoring solutions.
+- **Robótica:** Premiado em competições, aplicando lógica de controle e hardware, juntamente com a visão computacional para a **detecção e tracking dos robôs**. / Award-winning participation in robotics competitions.
 - **Full-Stack Projects:** Construção de interfaces robustas com Blazor para visualização de sistemas de engenharia. / Building robust Blazor interfaces for engineering system visualization.
-- **Fabricação Digital:** Modelagem e impressão 3D de peças funcionais para projetos de engenharia. / 3D modeling and printing of functional parts for engineering projects.
+
+### Hobbies
+- **Modelagem e impressão 3D** de peças funcionais para projetos de engenharia. / 3D modeling and printing of functional parts for engineering projects.
 
 ---
 
