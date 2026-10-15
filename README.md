@@ -27,7 +27,7 @@ Sou estudante de **Engenharia de Computação na UNIFEI** e atuo na convergênci
 
 ### 🏆 Key Achievements & Impact
 
-- 🥈 **Vice-Campeão Internacional no RSM Challenge 2025 (Drumonsters VSSS):** Reformulei o pipeline de visão computacional da equipe de robótica autônoma, atingindo 100% de ganho de estabilidade sob variações de iluminação, e implementei navegação fluida via **Campos Potenciais Artificiais (APF)**.
+- 🥈 **Vice-Campeão Internacional no RSM Challenge 2025 (Drumonsters VSSS):** equipe de robótica autônoma.
 - ☀️ **Pesquisador de IIoT em Usina Solar (UNIFEI & ENEL):** Arquitetei infraestrutura de telemetria e supervisão em tempo real para **+1.500 ativos elétricos críticos**, desenvolvendo middlewares industriais com **OPC UA (IEC 62541)**, MQTT, Modbus e SignalR com latência sub-segundo.
 - ⚙️ **Engenharia Reversa de Firmware & Baixo Nível:** Análise e engenharia reversa do binário de boot e controle de máquina `NCK.BIN` para aerogeradores eólicos (Galileo V3), além de implementação de **System Calls personalizadas no Kernel Linux** em anel 0 (*Ring 0*).
 - ☁️ **Previsão Solar com Deep Learning (TCC):** Desenvolvimento de pipeline integrando **CNNs e Transformers** para inferência de radiação solar a partir de imagens do céu/horizonte em tempo real para controle preditivo de geração fotovoltaica.
